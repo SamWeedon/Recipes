@@ -1,0 +1,15 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: black;
+    color: white;
+    margin-left: 5px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+}
+
+.ulist {
+    margin-left: -10px;
+}
